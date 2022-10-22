@@ -1,0 +1,72 @@
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\bin\Debug\EntityFramework.dll
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\bin\Debug\EntityFramework.xml
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.Accounts.resources
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.Migrations.ini.resources
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.Register.resources
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Mariam Ayman\Downloads\InventorySystem-main (1)\InventorySystem-main\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\bin\Debug\EntityFramework.dll
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\bin\Debug\EntityFramework.xml
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Accounts.resources
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Register.resources
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Mariam Ayman\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Migrations.d.resources
+E:\ProjectC#\Inventory-System\InventorySystem\bin\Debug\InventorySystem.exe.config
+E:\ProjectC#\Inventory-System\InventorySystem\bin\Debug\InventorySystem.exe
+E:\ProjectC#\Inventory-System\InventorySystem\bin\Debug\InventorySystem.pdb
+E:\ProjectC#\Inventory-System\InventorySystem\bin\Debug\EntityFramework.dll
+E:\ProjectC#\Inventory-System\InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectC#\Inventory-System\InventorySystem\bin\Debug\EntityFramework.xml
+E:\ProjectC#\Inventory-System\InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Accounts.resources
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Register.resources
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.exe
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.pdb
+E:\ProjectC#\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Migrations.first.resources
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\bin\Debug\InventorySystem.exe.config
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\bin\Debug\InventorySystem.exe
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\bin\Debug\InventorySystem.pdb
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\bin\Debug\EntityFramework.dll
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\bin\Debug\EntityFramework.xml
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Accounts.resources
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Migrations.first.resources
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.Register.resources
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.exe
+D:\ITI3Months\Projects\Inventory-System\InventorySystem\obj\Debug\InventorySystem.pdb
